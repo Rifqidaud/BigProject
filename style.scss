@@ -1,0 +1,485 @@
+.headerHome{
+    border-radius: 0;
+    border-right: 1px solid #E7F0F2;
+    li{
+        border:none;
+    }
+    color: #E7F0F2;
+}
+.NewConcept{
+    border-radius:0;
+    
+}
+.BorderP-Lorem{
+    border-right:  1px solid #E7F0F2;
+    height: 0px;
+    width: 241px;
+}
+.card{
+    border-radius: 0;
+    float: right;
+    display: flexbox;
+    width: 215px;   
+}
+.cardList{
+    border: radius 0;
+    width: 175px;
+    margin-top: 40px;
+    padding-top:40px
+}
+.card-title-List{
+  color:#000000;
+  margin-left:20px;
+  margin-top:0px;
+}
+.card-text-List{
+   color:#000000;
+   margin-left:20px;
+   margin-top:0px;
+}
+.card-title{
+    margin-top:50px;
+    margin-left:115px;
+}
+.card-text{
+    margin-top:-2px;
+    margin-left:135px;
+}
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.fontGoBack{
+    color: black;
+    font-size:12px;
+}
+.picture{
+    float:left;
+    height:auto;
+}
+.textcontent{
+    float:right;
+    height:auto;
+    width:50%;
+}
+.del{
+    font-size:15px;
+    color:grey;
+}
+.size{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.55);
+}
+.select1{
+    font-size: 20px;
+    border: none;
+}
+.mens{
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.55);
+  margin-left: 500px;
+  width:100%;
+
+}
+.row{
+    width: 100%;
+    flex:auto;
+}
+.col-6-text-content{
+    width:none;
+}
+.justify-content-end Goback{
+    justify-content: flex !important;
+    width: 100%;
+    margin-left: 90px;
+}
+.fontGoBack{
+    margin-left:40px;
+    width: 100%;
+    color: #E7F0F2;
+    font-size:12px;
+}
+.istyle{
+    width: 100%;
+    margin-left: 90px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.headerright{
+    float: right;
+}
+.headerleft{
+    float:left;
+    font-size: 36px;
+    color:#000000;
+}
+.margin-featured{
+    margin-top: 180px;
+    border-left:1px solid #E7F0F2 ;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+.contentright{
+    float:right;
+    margin-top:20px;
+    border-right: #E7F0F2 1px;
+}
+.col-8-your{
+    width:none;
+}
+.fontproduct{
+    color:#E7F0F2;
+    background-color:#E7F0F2;
+}
+.stylefasearch{
+  background-color:white;
+  cursor:pointer;
+  color:#000000;
+}
+.stylefashoping{
+    border-radius:none;
+    background-color:white;
+    cursor:pointer;
+    border: none;
+
+}
+.borderall{
+    border-right: #E7F0F2 1px solid;
+    height: 140px;
+    position: absolute;
+    padding-right:10px;
+    margin-top:20px;
+}
+.input-group-text {
+    border: none;
+    border-radius: none;
+    background-color: white;
+    
+}
+.A{
+    color: #000000;
+    text-decoration: none;
+    
+}
+.Adetail{
+    color:#000000;
+    border: none;
+    border-radius: none;
+    background-color: white;
+}
+.Logout{
+    text-align:center;
+    color:hwb(0 0% 100% / 0.781);
+}
+.Status{
+    text-align:center;
+    float:center;
+    size:500px
+}
+.card-addtocart{
+    size: 500px;
+    text-align: center;
+    float:center;
+}
+.card-detail1{
+    height: 280px;
+    width: 200px;
+    border-color: #000000;
+    background-color: #0000008c;
+}
+.card-body-detail1{
+    height:280px;
+
+}
+.card-img-detail1{
+    height:105px;
+}
+.card-title-detail1{
+    font-size:17px;
+}
+.card-text-detail1{
+    font-size:15px;
+}
+.d-flex-detail1{
+    margin-top: 50px;
+}
+.row-detail1{
+     margin-top: 0px;
+}
+.margin-detail1{
+    margin-top:20px;
+}
+.Status.color{
+    background-color: rgb(247, 247, 15);
+
+}
+.logo{
+    float:left;
+}
+.logo1{
+    float:right;
+}
+.iya{
+    float:right;
+}
+.status.padd-ahref-house{
+    padding-left: 200px;
+}
+.status.padd-ahref-bell{
+    padding-left:50px;
+}
+.status.padding-left-cicle{
+    padding-left:50px;
+}
+.color-back{
+    background-color: rgba(59, 130, 246,0.5);
+}
+.col-8{
+     padding-left:20px;
+}
+.cardstatus{
+    padding-right: 400px;
+}
+.card-title-status {
+    padding:0;
+    margin:0
+}
+.a{
+    color:#000000
+}
+.element{
+    padding-right:400px
+}
+.col-12-card{
+    padding-right:400px;
+}
+.maincontainer{
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+    height:80vh;
+    width:30vw;
+    background-color:0 0px 32px 0 rgba(255,255,255,0.15);
+    border-radius: 10px;
+    color:#ffff;
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+}
+.body {
+    background:url("/img.css/pattern-vintage.png");
+    background-size:contain;
+    background-position:top;
+    background:cover;
+}
+.Img-status{
+    background-image: url(./img.css/pattern-vintage.png);
+}
+.main{
+    text-align:center;
+    justify-content:center;
+    display:flex;
+    padding: 90px 0 90px 0;
+    background-image: url(./img.css/dubai.jpg);
+}
+.sub-main{
+    display:flex;
+    justify-content:center;
+    height:550px;
+    width:35%;
+    box-shadow: 11px 12px 13px 12px rgb(207,207,207);
+    padding-top:30px;
+    border-radius:60px;
+    background-color: white;
+}
+.imgs{
+    padding-top:20px;
+    justify-content:center;
+    display:flex;
+}
+.container-image{
+    background-color:rgb(221,221,221);
+    border-radius: 150px;
+    align-items: center;
+    display:flex;
+    height:115px;
+    width: 115px
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+}
+.input{
+    width:300px;
+    height:50px;
+    border-radius:60px;
+    box-shadow:insert 0px 0px 25px 0px #888;
+    margin-left:50px;
+    margin-bottom:200px
+}
+.button-log{
+    width: 180px;
+    height: 50px;
+    border-radius: 50px;
+    color:rgb(216, 203, 203);
+    background-color: #b103fc;
+    font-size:25px;
+    border:none;
+    margin-left:70px;
+    margin-bottom:70px;
+    align-items: center;
+}
+.mb-3 mt-3{
+  margin-left:60px;
+  padding-left: 20px
+}
+.mb-3{
+    margin-left:30px;
+
+}
+.border-checkout{
+    border-bottom: #000000;
+}
+.card-body{
+    background-color:#cff2ec;
+    color:#262829
+}
+.color-checkout{
+    background-color: #E7F0F2;
+}
+.col-3{
+}
+.mainregis{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.maincontainerregis{
+   padding: 0;
+   margin: 0;
+   background-image: url(./img.css/Central-Park.jpg);
+   background-size:cover;
+}
+.overlay{
+    position:absolute;
+    top:0;
+    width:100%;
+    height:100%;
+    background-image:url(./img.css/Central-Park.jpg);
+}
+.box{
+    position:absolute;
+    width:400px;
+    background-color: white;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    border-radius: 15px;
+    
+}
+.header{
+    background-image: url(./img.css/Central-Park.jpg);
+    background-size:cover;
+    padding: 0px 20px;
+    height: 100px;
+    color:white;
+}
+.header p{
+    font-size: x-small
+}
+.login-area{
+    text-align: center;
+    padding: 0px 50px 0px 50px;
+    height: 350px;
+    margin-right:50px;
+    background-color: #E7F0F2;
+}
+
+.password{
+    width:100%;
+    text-align:center;
+    padding: 10px 0;
+    outline: none;
+    border:none;
+    color:white;
+
+}
+
+.sub-main-regis{
+    display:flex;
+    justify-content:left;
+    height:25vh;
+    width:40%;
+    box-shadow: 11px 12px 13px 12px rgb(207,207,207);
+    padding-top:30px;
+    border-radius:60px;
+    background-color: white;
+    backdrop-filter: blur(8.5px);
+    border-radius:10px;
+    color:#ffff;
+    text-transform: uppercase;
+    letter-spacing:0ch.4rem;
+    flex-direction: column;
+
+}
+.Border-addtocart{
+    border-bottom: solid 1px #000000;
+
+}
+.username::placeholder,
+.password::placeholder {
+  color: rgba(255, 255, 255, .7);
+}
+.username:focus,
+.password:focus{
+    background-color: rgba(55, 10, 114);
+}
+.btn-primary-regis{
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: #0d6efd;
+}
+.btn{
+    background-color: #0d6efd;
+}
+label{
+ display:block;
+ width:20px;
+ height:20px;
+ cursor:pointer;
+ margin-right:60px
+}
+input-addtocart{
+    position:absolute;
+    transform: scale(0);
+}
+input:checked ~ .checkbox {
+    transform: rotate(45deg);
+    width:10px;
+    margin-left: 16px;
+    border-color:#24c78e;
+    border-top-color: transparent;
+    border-left-color:transparent;
+    border-radius:0;
+}
+.checkbox{
+    display: block;
+    width: inherit;
+    height: inherit;
+    border: 1px solid #434343;
+    border-radius: 6px;
+    transition: all 0.375s;
+}
+.btn-primary-detail1{
+    margin-left:40px;
+    background-color: #fcba03;
+}
+.btn detail-1{
+    background-color: #fcba03;
+}

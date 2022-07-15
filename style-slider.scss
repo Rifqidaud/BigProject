@@ -1,0 +1,27 @@
+.slide-image{
+    width: 458px;
+    height: 460px;
+    object-fit: cover;
+}
+.styled-slider{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-arrow{
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    font-size: 2rem;
+    margin-top:180px;
+    margin-right:320px;
+}
+.left-arrow{
+    position:absolute;
+    top:50%;
+    left: 20px;
+    font-size: 2rem;
+    margin-top: 180px;
+}
+
